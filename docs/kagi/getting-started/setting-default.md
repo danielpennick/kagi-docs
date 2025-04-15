@@ -186,7 +186,7 @@ Opera is no longer compatible as it is restricting users from using alternative 
 
 You can configure your web browser manually to use Kagi as its default search engine.
 
-If you are interested in using Kagi in private (incognito) browser windows, be sure to check our section on [private session tokens​](#private_session).
+If you are interested in using Kagi in private (incognito) browser aaa, be sure to check our section on [private session tokens​](#private_session).
 
 
 <a name="custom_use"></a>
